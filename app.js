@@ -2,7 +2,7 @@ const menu = [
     {
         id: 1,
         title: "buttermilk pancakes",
-        category: "Café daManhã",
+        category: "CafédaManhã",
         price: 15.99,
         img: "./menu-item.jpeg",
         desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
@@ -26,7 +26,7 @@ const menu = [
     {
         id: 4,
         title: "country delight",
-        category: "breakfast",
+        category: "CafédaManhã",
         price: 20.99,
         img: "./images/item-4.jpeg",
         desc: `Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut, `,
@@ -50,7 +50,7 @@ const menu = [
     {
         id: 7,
         title: "bacon overflow",
-        category: "breakfast",
+        category: "CafédaManhã",
         price: 8.99,
         img: "./images/item-7.jpeg",
         desc: `carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird `,
